@@ -1,0 +1,60 @@
+p {
+    color:#151F28(250, 34%, 33%)
+    }
+    
+body {
+    color: #F7AF9D(83, 105, 119);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #FDECF0;
+    }
+div {
+  margin: 20px;
+}
+
+h1 {
+    color:#C08497(116, 72, 141)
+    }
+
+table {
+    background-color:#FDECF0(221, 205, 187)
+    }
+
+.Tratamientos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    }
+
+.Trastornos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Ansiedad{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
+
+.Depresión{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
+
+.Esquizofrenia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
+
+.TCA{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
